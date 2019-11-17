@@ -109,7 +109,7 @@ function track_character(input) {
             // results given to user 
             console.log(results[0]);
             connection.end(function (err) {
-                console.log('Information Delivered! Disconnecting from Database');
+                console.log('Information Delivered! Disconnecting from Database and Exiting Program');
                 process.exit();
             });
         }

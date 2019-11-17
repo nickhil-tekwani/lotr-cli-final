@@ -20,7 +20,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "mysql": "^2.17.1",
-    "nodemon": "^1.19.4",
     "prompt": "^1.0.0"
   }
 }
