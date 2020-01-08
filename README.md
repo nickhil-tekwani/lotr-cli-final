@@ -5,6 +5,7 @@ https://docs.google.com/document/d/1GBdWOqjYbmuC8zTxtExfYM7ybLNG_lN20NH-FJ2DWm4/
 
 Prior to attempting to run this program, please ensure to (npm install) first to download all necessarily dependencies (express, mysql, and prompt).
 Please visit the npm website to learn more about these 3 libraries.
+Please also use the SQL script found in the create_lotrfinal.sql to add the necessary database schema to your local mySql instance.
 
 To begin the program, type (npm start) into the terminal and hit enter. 
 You will be prompted to enter the username and password for your MySql localhost, separated by a singular space.
